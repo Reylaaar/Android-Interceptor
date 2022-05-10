@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Assessment</string>
+
+    <string name="error_getting_contact_details">Error when getting contact details</string>
+    <string name="error_getting_user">Invalid user account</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="logout">logout</string>
+    <string name="cancel">cancel</string>
+    <string name="name">name</string>
+    <string name="app_name_v2">Android Assessment</string>
+</resources>
